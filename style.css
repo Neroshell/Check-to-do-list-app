@@ -337,13 +337,12 @@ ul li span:hover{
 .bar {
         font-size: 30px;
         cursor: pointer;
-        color: red;
+       
       
       }
 
       .image-box{
         width: 30%;
-        border: 1px solid red;
         margin-right: 400px;
     }
 
