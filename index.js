@@ -58,7 +58,6 @@ function displayData(){
 
 displayData();
 
-
 document.addEventListener('DOMContentLoaded', function() {
     let bar = document.querySelector("#bar");
     bar.addEventListener("click", openNav);
@@ -75,4 +74,3 @@ document.addEventListener('DOMContentLoaded', function() {
         document.getElementById("mySidenav").style.width = "0";
     }
 });
-
