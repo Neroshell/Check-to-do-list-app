@@ -7,7 +7,7 @@
 }
 body{
     color: #071952;
-    min-height: 120vh;
+    min-height: 100vh;
    
 }
 
@@ -350,7 +350,7 @@ ul li span:hover{
         display: none;
     }
     .playboy{
-        width: 50%;
+        width: 70%;
     }
 
     ul li span{
