@@ -12,7 +12,7 @@ body{
 }
 
 .info-body{
-    min-height: 180vh;
+   padding-bottom: 20px;
     
 }
 
@@ -283,8 +283,10 @@ ul li span:hover{
    border-radius: 10px;
     margin: 0 auto;
     display: block;
-   
+}
 
+a{
+    text-decoration: none;
 }
 /**
  * ----------------------------------------
