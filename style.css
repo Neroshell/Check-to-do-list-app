@@ -272,6 +272,20 @@ ul li span:hover{
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     border-radius: 20px;
 }
+
+.return{
+  
+   background-color: #97FEED;
+   color: #0B666A;
+   padding: 20px 70px;
+   border: none;
+   outline: none;
+   border-radius: 10px;
+    margin: 0 auto;
+    display: block;
+   
+
+}
 /**
  * ----------------------------------------
  * animation bounce-top
